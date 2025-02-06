@@ -14,3 +14,21 @@ img {
     object-fit: contain;
 }
 
+
+
+.payment-button {
+    margin: auto;
+    width: 25%;
+    height: auto;
+   
+}
+
+form {
+    background-color: white;
+}
+
+input [type=text] {
+    color: white;
+}
+
+
