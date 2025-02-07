@@ -32,7 +32,8 @@ form {
 table {
      text-align: center;
      color: white;
-     width: 100%
+     width: 100%;
+     font-size: .75em;
 }
 
 input[type=image] {
