@@ -24,11 +24,23 @@ img {
 }
 
 form {
-    background-color: white;
+    text-align: center;
+    margin: auto;
+    width: 20rem;
+    height: auto;
+
+    
+    
 }
 
-input [type=text] {
-    color: white;
+table {
+     width: 20rem;
+     text-align: center;
+     color: white;
+}
+
+input[type=image] {
+
 }
 
 
